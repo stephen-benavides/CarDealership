@@ -1,0 +1,89 @@
+INFO  | 2020-07-28 02:46:31 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 10:16:42 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 10:42:49 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 10:46:19 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 10:47:06 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 10:51:41 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 10:52:33 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 10:53:45 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 10:54:46 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 10:55:36 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 12:20:28 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 12:21:04 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 12:22:14 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 12:22:52 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 12:24:47 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 12:26:21 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 12:27:17 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 12:43:04 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 12:44:13 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 12:45:12 | [main] driver.Functionality (Functionality.java:16) - Program Started
+WARN  | 2020-07-28 12:45:25 | [main] driver.Functionality (Functionality.java:83) - The geetMyCars relationship needs fixing
+INFO  | 2020-07-28 12:53:32 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 12:53:40 | [main] driver.Functionality (Functionality.java:16) - Program Started
+WARN  | 2020-07-28 12:53:50 | [main] driver.Functionality (Functionality.java:83) - The geetMyCars relationship needs fixing
+INFO  | 2020-07-28 12:55:38 | [main] driver.Functionality (Functionality.java:16) - Program Started
+WARN  | 2020-07-28 12:55:45 | [main] driver.Functionality (Functionality.java:83) - The geetMyCars relationship needs fixing
+INFO  | 2020-07-28 12:56:58 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 13:02:40 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 13:05:47 | [main] driver.Functionality (Functionality.java:16) - Program Started
+WARN  | 2020-07-28 13:06:09 | [main] driver.Functionality (Functionality.java:83) - The geetMyCars relationship needs fixing
+INFO  | 2020-07-28 13:06:46 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 13:07:15 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 13:07:56 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 13:10:55 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 13:14:53 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 13:19:23 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 13:25:26 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 13:35:52 | [main] driver.Functionality (Functionality.java:16) - Program Started
+WARN  | 2020-07-28 13:36:04 | [main] driver.Functionality (Functionality.java:83) - The geetMyCars relationship needs fixing
+INFO  | 2020-07-28 13:36:41 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 13:37:27 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 13:40:33 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 13:43:07 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 13:44:32 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 14:04:22 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 14:21:05 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 14:22:36 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 14:24:09 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 14:25:49 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 14:32:27 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 14:38:05 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 14:54:41 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 14:55:11 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 14:55:26 | [main] driver.Functionality (Functionality.java:16) - Program Started
+WARN  | 2020-07-28 14:55:55 | [main] driver.Functionality (Functionality.java:83) - The geetMyCars relationship needs fixing
+WARN  | 2020-07-28 14:56:24 | [main] driver.Functionality (Functionality.java:83) - The geetMyCars relationship needs fixing
+INFO  | 2020-07-28 14:56:34 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 14:57:05 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 14:57:35 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 14:58:31 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 14:58:39 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 14:59:30 | [main] driver.Functionality (Functionality.java:16) - Program Started
+WARN  | 2020-07-28 14:59:42 | [main] driver.Functionality (Functionality.java:83) - The geetMyCars relationship needs fixing
+WARN  | 2020-07-28 14:59:42 | [main] driver.Functionality (Functionality.java:83) - The geetMyCars relationship needs fixing
+INFO  | 2020-07-28 15:00:21 | [main] driver.Functionality (Functionality.java:16) - Program Started
+WARN  | 2020-07-28 15:00:44 | [main] driver.Functionality (Functionality.java:84) - The geetMyCars relationship needs fixing
+WARN  | 2020-07-28 15:00:44 | [main] driver.Functionality (Functionality.java:84) - The geetMyCars relationship needs fixing
+INFO  | 2020-07-28 15:01:40 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 15:04:11 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 15:06:57 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 15:07:26 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 15:07:52 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 15:08:04 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 15:19:42 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 15:20:21 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 15:22:09 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 15:23:39 | [main] driver.Functionality (Functionality.java:16) - Program Started
+WARN  | 2020-07-28 15:23:57 | [main] driver.Functionality (Functionality.java:84) - The geetMyCars relationship needs fixing
+INFO  | 2020-07-28 15:45:12 | [main] driver.Functionality (Functionality.java:16) - Program Started
+INFO  | 2020-07-28 15:45:51 | [main] driver.Functionality (Functionality.java:16) - Program Started
+WARN  | 2020-07-28 15:46:26 | [main] driver.Functionality (Functionality.java:84) - The geetMyCars relationship needs fixing
+WARN  | 2020-07-28 15:46:26 | [main] driver.Functionality (Functionality.java:84) - The geetMyCars relationship needs fixing
+INFO  | 2020-07-28 16:01:51 | [main] driver.Functionality (Functionality.java:17) - Program Started
+INFO  | 2020-07-28 16:02:26 | [main] driver.Functionality (Functionality.java:17) - Program Started
+INFO  | 2020-07-28 16:03:34 | [main] driver.Functionality (Functionality.java:17) - Program Started
+INFO  | 2020-07-28 16:03:51 | [main] driver.Functionality (Functionality.java:17) - Program Started
+INFO  | 2020-07-28 16:05:24 | [main] driver.Functionality (Functionality.java:17) - Program Started
+WARN  | 2020-07-28 16:05:58 | [main] driver.Functionality (Functionality.java:85) - The geetMyCars relationship needs fixing
+INFO  | 2020-07-28 16:07:40 | [main] driver.Functionality (Functionality.java:17) - Program Started
